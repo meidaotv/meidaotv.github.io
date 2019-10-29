@@ -23,7 +23,6 @@ browserRedirect();//勿删除
 //---------------------------------------------------------------------------------->头部横幅广告开始
 document.write("<div id=\'gg1\' style=\'display:none\'>");//勿删除
 
-document.write('<a href=\"http://45.195.197.156/vip399.html\" target=\"_blank\"><img src=\"https://pic.cytcm.com/2019550096/1050-60.gif\"   class=\"jpgbj\"/></a>');//5596  11.9
 document.write('<a href=\"http://45.195.197.215/vip583.html\" target=\"_blank\"><img src=\"http://pic.cytcm.com/2019250044/1050-60.gif\"   class=\"jpgbj\"/></a>');//2544  11.9
 document.write('<a href=\"https://download.298app8.com:8443/download?channelCode=gg298&agentCode=17805463\" target=\"_blank\"><img src=\"https://kanjiantu.com/images/2019/10/09/960x60cca3e763b99a283a.gif\"   class=\"jpgbj\"/></a>');//923  11.9
 document.write('<a href=\"https://download.298app8.com:8443/download?channelCode=gg298&agentCode=17805463\" target=\"_blank\"><img src=\"https://kanjiantu.com/images/2019/10/09/960x60cca3e763b99a283a.gif\"   class=\"jpgbj\"/></a>');//923  11.9
@@ -45,7 +44,7 @@ document.write("</div>");//勿删除
 //---------------------------------------------------------------------------------->尾部横幅广告开始
 document.write("<div id=\'gg2\' style=\'display:none\'>");//勿删除
 
-document.write('<a href=\"http://wwwqp11.com\" target=\"_blank\"><img src=\"https://kanjiantu.com/images/2019/07/20/QQ2019071322420264ffdafcae355bc1.gif\"   class=\"jpgbj\"/></a>');
+
 document.write('<a href=\"https://htzao.com/images/html/66655-4.html\" target=\"_blank\"><img src=\"https://htzao.com/images/imag/66655960-80.gif\"   class=\"jpgbj\"/></a>');
 document.write('<a href=\"https://htzao.com/images/html/7434-4.html\" target=\"_blank\"><img src=\"https://htzao.com/images/imag/7434960-80.gif\"   class=\"jpgbj\"/></a>');
 
