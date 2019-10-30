@@ -49,8 +49,6 @@ document.write("<div id=\'gg4\' style=\'display:none\'>");//勿删除
 
 document.write('<a href=\"https://download.298app8.com:8443/download?channelCode=gg298&agentCode=17805463\" target=\"_blank\"><img src=\"https://kanjiantu.com/images/2019/10/09/960x60cca3e763b99a283a.gif\"   class=\"jpgbj\"/></a>');//923  11.9
 document.write('<a href=\"https://download.298app8.com:8443/download?channelCode=gg298&agentCode=17805463\" target=\"_blank\"><img src=\"https://kanjiantu.com/images/2019/10/09/960x60cca3e763b99a283a.gif\"   class=\"jpgbj\"/></a>');//923  11.9
-document.write('<a href=\"https://11qp77.com/index.html?shareName=11qp20\" target=\"_blank\"><img src=\"http://upload.ouliu.net/i/201910271955535s61b.gif\"   class=\"jpgbj\"/></a>');//11棋牌
-document.write('<a href=\"https://11qp77.com/index.html?shareName=11qp20\" target=\"_blank\"><img src=\"http://upload.ouliu.net/i/201910271955535s61b.gif\"   class=\"jpgbj\"/></a>');//11棋牌
 document.write("</div>");//勿删除
 //---------------------------------------------------------------------------------->内页250x250广告
 
