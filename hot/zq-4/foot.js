@@ -23,21 +23,15 @@ browserRedirect();//勿删除
 //---------------------------------------------------------------------------------->头部横幅广告开始
 document.write("<div id=\'gg1\' style=\'display:none\'>");//勿删除
 
-document.write('<a href=\"http://45.195.197.215/vip583.html\" target=\"_blank\"><img src=\"http://pic.cytcm.com/2019250044/1050-60.gif\"   class=\"jpgbj\"/></a>');//2544  11.9
 document.write('<a href=\"https://download.298app8.com:8443/download?channelCode=gg298&agentCode=17805463\" target=\"_blank\"><img src=\"https://kanjiantu.com/images/2019/10/09/960x60cca3e763b99a283a.gif\"   class=\"jpgbj\"/></a>');//923  11.9
 document.write('<a href=\"https://download.298app8.com:8443/download?channelCode=gg298&agentCode=17805463\" target=\"_blank\"><img src=\"https://kanjiantu.com/images/2019/10/09/960x60cca3e763b99a283a.gif\"   class=\"jpgbj\"/></a>');//923  11.9
-document.write('<a href=\"http://167.p77777777.com:8167/213qp.html\" target=\"_blank\"><img src=\"https://sc02.alicdn.com/kf/U160f0ce211fa4d19ba7dc386d46b9ae77.gif\" class=\"jpgbj\"/></a>');//167 11.7
-document.write('<a href=\"http://tai.m77777777.com:8005/h213.html\" target=\"_blank\"><img src=\"https://sc02.alicdn.com/kf/Uafa80123743d47579b56b51709f45c2dG.jpg\" class=\"jpgbj\"/></a>');//167 11.7
-document.write('<a href=\"http:http://ky.g66667777.com:8001/y158.html\" target=\"_blank\"><img src=\"https://sc02.alicdn.com/kf/Ue06968cff421407b8946962e63ff50997.gif\" class=\"jpgbj\"/></a>');//167 11.7
-document.write('<a href=\"http://kh.t77777777.com:8119/h53.html\" target=\"_blank\"><img src=\"https://sc01.alicdn.com/kf/U3fca9f6c6d58495b809d78ac0760c942R.gif\" class=\"jpgbj\"/></a>');//167 11.7
-document.write('<a href=\"http://df.s77777777.com:8118/fax08.html\" target=\"_blank\"><img src=\"https://sc02.alicdn.com/kf/Uf85793fc5014401188ead7ed7cca85b7o.gif\" class=\"jpgbj\"/></a>');//167 11.7
 document.write('<a href=\"https://htzao.com/images/html/8084-4.html\" target=\"_blank\"><img src=\"https://img.alicdn.com/imgextra/i1/1617532280/O1CN01ogKIvt1SiHb0Wh2ce_!!1617532280.gif\"   class=\"jpgbj\"/></a>');
 document.write('<a href=\"https://htzao.com/images/html/7933-17.html\" target=\"_blank\"><img src=\"https://img.alicdn.com/imgextra/i1/1617532280/O1CN01jcEsa11SiHax5Q1n4_!!1617532280.gif\"   class=\"jpgbj\"/></a>');
 document.write('<a href=\"https://htzao.com/images/html/66655-4.html\" target=\"_blank\"><img src=\"https://img.alicdn.com/imgextra/i3/1617532280/O1CN01v5ylu51SiHb1Q6BQn_!!1617532280.gif\"   class=\"jpgbj\"/></a>');
 document.write('<a href=\"https://htzao.com/images/html/7434-4.html\" target=\"_blank\"><img src=\"https://img.alicdn.com/imgextra/i4/1617532280/O1CN01mfd5bP1SiHayyD4o1_!!1617532280.gif\"   class=\"jpgbj\"/></a>');
 document.write('<a href=\"https://htzao.com/images/html/7233-9.html\" target=\"_blank\"><img src=\"https://img.alicdn.com/imgextra/i4/1617532280/O1CN01xdjOme1SiHb1Q56ht_!!1617532280.gif\"   class=\"jpgbj\"/></a>');
 //document.write('<SPAN id=lianmengGG></SPAN>');//联盟横幅
-document.write('<a href=\"http://wwwqp11.com\" target=\"_blank\"><img src=\"http://91w3.com/hot/zq-4/hezuo.png\"   class=\"jpgbj\"/></a>');
+
 document.write('<a href=\"https://11qp77.com/index.html?shareName=11qp20\" target=\"_blank\"><img src=\"http://upload.ouliu.net/i/201910271955535s61b.gif\"   class=\"jpgbj\"/></a>');//11棋牌
 document.write('<a href=\"https://11qp77.com/index.html?shareName=11qp20\" target=\"_blank\"><img src=\"http://upload.ouliu.net/i/201910271955535s61b.gif\"   class=\"jpgbj\"/></a>');//11棋牌
 document.write("</div>");//勿删除
@@ -57,11 +51,6 @@ document.write('<a href=\"https://download.298app8.com:8443/download?channelCode
 document.write('<a href=\"https://download.298app8.com:8443/download?channelCode=gg298&agentCode=17805463\" target=\"_blank\"><img src=\"https://kanjiantu.com/images/2019/10/09/960x60cca3e763b99a283a.gif\"   class=\"jpgbj\"/></a>');//923  11.9
 document.write('<a href=\"https://11qp77.com/index.html?shareName=11qp20\" target=\"_blank\"><img src=\"http://upload.ouliu.net/i/201910271955535s61b.gif\"   class=\"jpgbj\"/></a>');//11棋牌
 document.write('<a href=\"https://11qp77.com/index.html?shareName=11qp20\" target=\"_blank\"><img src=\"http://upload.ouliu.net/i/201910271955535s61b.gif\"   class=\"jpgbj\"/></a>');//11棋牌
-document.write('<a href=\"http://167.p77777777.com:8167/213qp.html\" target=\"_blank\"><img src=\"https://sc02.alicdn.com/kf/U160f0ce211fa4d19ba7dc386d46b9ae77.gif\" class=\"jpgbj\"/></a>');//167 11.7
-document.write('<a href=\"http://tai.m77777777.com:8005/h213.html\" target=\"_blank\"><img src=\"https://sc02.alicdn.com/kf/Uafa80123743d47579b56b51709f45c2dG.jpg\" class=\"jpgbj\"/></a>');//167 11.7
-document.write('<a href=\"http:http://ky.g66667777.com:8001/y158.html\" target=\"_blank\"><img src=\"https://sc02.alicdn.com/kf/Ue06968cff421407b8946962e63ff50997.gif\" class=\"jpgbj\"/></a>');//167 11.7
-document.write('<a href=\"http://kh.t77777777.com:8119/h53.html\" target=\"_blank\"><img src=\"https://sc01.alicdn.com/kf/U3fca9f6c6d58495b809d78ac0760c942R.gif\" class=\"jpgbj\"/></a>');//167 11.7
-document.write('<a href=\"http://df.s77777777.com:8118/fax08.html\" target=\"_blank\"><img src=\"https://sc02.alicdn.com/kf/Uf85793fc5014401188ead7ed7cca85b7o.gif\" class=\"jpgbj\"/></a>');//167 11.7
 document.write("</div>");//勿删除
 //---------------------------------------------------------------------------------->内页250x250广告
 
@@ -238,5 +227,5 @@ document.getElementById('gg9').innerHTML="";
 
 //document.writeln('<SPAN class=spanclass id=AD_lianmengGG><script id="mob" type="text/javascript" charset="utf-8" src="http://kn.xhrxb.com/h.php?pid=5921"></script></SPAN>');
 //document.writeln("<script>lianmengGG.innerHTML=AD_lianmengGG.innerHTML;AD_lianmengGG.innerHTML=\'\';</script>");
-document.write("<script type=\'text/javascript\' src=\'//91w3.com/hot/zq-2/reset/tc-foot.js\'></script>");//左右炫富
+document.write("<script type=\'text/javascript\' src=\'//www.xhdog.cc/hot/zq-2/reset/tc-foot.js\'></script>");//左右炫富
 //document.write("<script id=\'mob\' type=\'text/javascript\' charset=\'utf-8\' src=\'http://kv.whhxnz.com/d.php?pid=5921\'></script>");//联盟广告
