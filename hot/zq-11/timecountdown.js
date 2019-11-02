@@ -29,9 +29,8 @@ window.onload=function(){
         ].join('\n'),'color: #fad144;');
 
       console.log('%c  网站   T_T    一条龙   T_T    关注彩蛋有惊喜', 'color: #fa4844;font-size: 16px;font-weight: bold'); 
-	console.log('%c  极品少妇：www.jpsf.xyz', 'color: #4B0082;font-size: 16px;font-weight: bold'); 
+	console.log('%c  极品少妇：https://www.jpsf.xyz', 'color: #4B0082;font-size: 16px;font-weight: bold'); 
 	console.log('%c  联系TG：@secatav', 'color: #9932CC;font-size: 16px;font-weight: bold'); 
-	console.log('%c  模板辛苦创作，请勿非法修改发布', 'color: #0000CD;font-size: 16px;font-weight: bold'); 
-	console.log('%c  IDC云主机:http://idc.xinhongit.com', 'color: #228B22;font-size: 16px;font-weight: bold'); 
+	console.log('%c  模板辛苦创作，请勿非法修改发布', 'color: #0000CD;font-size: 16px;font-weight: bold');  
 	console.log('%c  海外永久地址发布:https://www.qisev.com', 'color: #228B22;font-size: 16px;font-weight: bold'); 
 	console.log('%c  久草cms模板演示下载:https://www.cao69.top', 'color: #328B22;font-size: 16px;font-weight: bold'); 
